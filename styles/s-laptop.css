@@ -1,0 +1,246 @@
+@media only screen and (max-width: 1220px){
+  /*Header*/
+  header{
+    position: sticky;
+    top: 0;
+    height: 100px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: white;
+    background-image: url(./images/gradient_1.svg);
+    padding-left: 50px;
+    padding-right: 40px;
+  }
+
+  .navbar{
+    display: flex;
+    width: 60%
+  }
+
+  .hlogo{
+    height: 97px;
+    width: 184px;
+  }
+  .navbar li{
+    list-style: none;
+    margin: 0 5px;
+  }
+
+  /**/
+  .sec1-with-wave{
+    background-image: url(./images/gradient_1.svg);
+    overflow: hidden;
+  }
+
+  .container{
+    width: 500px;
+    padding-left: 50px;
+  }
+  /*Sec 1*/
+  .sec1{
+
+    height: 761px;
+    width: 100%;
+  }
+
+  .logo{
+    display: none;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    height:97px;
+    width: 184px;
+  }
+
+  .main-content{
+    color: white;
+    height: 640px;
+    width: 500px;
+    margin-top: 10px;
+  }
+
+  .heading{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+  }
+
+  .heading span{
+    margin: 5px 0;
+  }
+
+  .description{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+    margin-top: -12px;
+  }
+
+  .download{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    height: 50px;
+    width: 185px;
+    background-color: #7634bf;
+    margin-top: 85px;
+    border-radius: 25px;
+  }
+
+  .phone{
+    overflow: hidden;
+    height: 65.3vw;
+    width: 56.4vw;
+    margin-left: -100px;
+  }
+
+  .phone img{
+    padding-top: 65px;
+    height: 56.2vw;
+    width: 56.5vw;
+  }
+
+  .curve1{
+    width: 100vw;
+  }
+
+  .curve1 img{
+    width: 100vw;
+    margin-bottom: -12px;
+  }
+
+  /*Sec2*/
+  .sec2-1{
+    flex-direction: row-reverse;
+    width: calc(100vw - 32px);
+    height: 42vw;
+    justify-content: space-around;
+    padding: 16px;
+
+  }
+
+  .sec2-text{
+    margin-top: 70px;
+    width: 50vw;
+  }
+
+  .sec2-number{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+  }
+
+  .sec2-heading{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    padding: 30px 0px 50px;
+  }
+
+  .sec2-heading-2{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    padding: 30px 0px 50px;
+  }
+
+  .sec2-description{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+  }
+
+  .sec2-img{
+    width: 41vw;
+    height: 35vw;
+    border-radius: 30px;
+  }
+
+  .sec2-2{
+    flex-direction: row;
+    width: calc(100vw - 32px);
+    height: 46vw;
+    justify-content: space-around;
+    padding: 16px;
+    background-color: #f3f5f6;
+    align-items: center;
+  }
+
+  .sec2-3{
+    flex-direction: row-reverse;
+    width: calc(100vw - 32px);
+    height: 46vw;
+    justify-content: space-around;
+    padding: 16px;
+    align-items: center;
+  }
+
+  /*sec 3*/
+  .sec3-with-wave{
+    background-image: url(./images/gradient_2.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+  }
+
+  .curve2 img{
+    width: 100vw;
+  }
+
+  .curve3 img{
+    width: 100vw;
+    margin-bottom: -10px;
+  }
+
+  .sec3{
+    height: 83vw;
+  }
+
+  .sec3-imagebar{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .sec3-imagebar img{
+    width: 25vw;
+  }
+
+  .sec3-img{
+     width: 46vw;
+     height: 46vw;
+  }
+
+  .sec3-1{
+    flex-direction: row;
+    width: calc(100vw - 32px);
+    height: 46vw;
+    justify-content: space-around;
+    padding: 16px;
+    align-items: center;
+    padding-top: 110px;
+  }
+
+  .sec3-text{
+    width: 550px;
+    padding-right: 100px;
+  }
+
+  .sec3-heading{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+    padding: 0px 0px 40px;
+  }
+
+  .sec3-description{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 300;
+    color: white;
+    font-size: 16px;
+  }
+  /*Sec 4*/
+
+
+
+
+
+
+}

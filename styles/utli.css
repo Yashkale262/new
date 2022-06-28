@@ -1,0 +1,31 @@
+.flex{
+  display: flex;
+}
+
+.column{
+  flex-direction: column;
+}
+
+.justify-center{
+  justify-content: center;
+}
+
+.justify-around{
+  justify-content: space-around;
+}
+
+.justify-between{
+  justify-content: space-between;
+}
+
+.aling-items{
+  align-items: center;
+}
+
+.font-pink{
+  color: #e03584;
+}
+
+.font-purple{
+  color:#7634bf;
+}
